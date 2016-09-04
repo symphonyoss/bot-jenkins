@@ -1,4 +1,4 @@
 target
 
-test/resources/bot.user20.p12
-test/resources/server.truststore
+src/test/resources/bot.user20.p12
+src/test/resources/server.truststore
